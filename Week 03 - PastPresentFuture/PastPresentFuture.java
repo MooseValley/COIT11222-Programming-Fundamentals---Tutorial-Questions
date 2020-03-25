@@ -1,4 +1,7 @@
 /*
+Author: Mike OMalley
+Source: PastPresentFuture.java
+
 Java - Basic Console App - Week 3
 5. a. Write an application that prompts a user for a month, day, and year. Display a
 message that specifies whether the entered date is (1) not this year, (2) in an earlier month this year, (3) in a later month this year, or (4) this month. Save the file as PastPresentFuture.java.

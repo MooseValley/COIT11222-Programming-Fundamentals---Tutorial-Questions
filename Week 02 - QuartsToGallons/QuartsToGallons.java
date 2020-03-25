@@ -1,4 +1,7 @@
 /*
+Author: Mike OMalley
+Source: QuartsToGallons.java
+
 Java - Basic Console App - Week 2
 4. a. Write a Java class that declares a named constant to hold the number of quarts
 in a gallon (4). Also declare a variable to represent the number of quarts

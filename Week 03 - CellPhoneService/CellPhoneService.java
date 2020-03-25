@@ -1,4 +1,7 @@
 /*
+Author: Mike OMalley
+Source: CellPhoneService.java
+
 Java - Basic Console App - Week 3
 4. Write a program for Horizon Phones, a provider of cellular phone service. Prompt a
 user for maximum monthly values for talk minutes used, text messages sent, and

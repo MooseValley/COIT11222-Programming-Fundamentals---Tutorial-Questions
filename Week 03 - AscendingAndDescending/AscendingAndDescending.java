@@ -1,4 +1,7 @@
 /*
+Author: Mike OMalley
+Source: AscendingAndDescending.java
+
 Java - Basic Console App - Week 3
 2. Write an application that asks a user to enter three integers. Display them in
 ascending and descending order. Save the file as AscendingAndDescending.java.

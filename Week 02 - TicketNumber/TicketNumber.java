@@ -1,4 +1,7 @@
 /*
+Author: Mike OMalley
+Source: TicketNumber.java
+
 Java - Basic Console App - Week 2
 12. Travel Tickets Company sells tickets for airlines, tours, and other travel-related
 services. Because ticket agents frequently mistype long ticket numbers, Travel
