@@ -5,11 +5,12 @@ My solutions to selected tutorial and text book questions.
 My Github:
 <br>https://github.com/MooseValley
 
-My YouTube channel for videos working through Java problems, questions:
-<br>https://www.youtube.com/user/MoosesValley/videos
+My Java Software Development YouTube channel:
+<br>http://tinyurl.com/MikesJavaVideos
 
 My web page:
 * Moose's Software Valley - Established July, 1996.
-https://rebrand.ly/MoosesSoftware
+<br>https://rebrand.ly/MoosesSoftware
 
-Mike O'Malley
+Mike "Moose" O'Malley
+<br>https://rebrand.ly/MoosesSoftware
