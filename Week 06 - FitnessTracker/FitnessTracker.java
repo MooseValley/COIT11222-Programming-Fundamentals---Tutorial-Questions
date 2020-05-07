@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: FitnessTracker.java
+
+Java - Basic Console App - Week 06
 3. a. Create a FitnessTracker class that includes data fields for a fitness activity, the
 number of minutes spent participating, and the date. The class includes methods
 to get each field. In addition, create a default constructor that automatically

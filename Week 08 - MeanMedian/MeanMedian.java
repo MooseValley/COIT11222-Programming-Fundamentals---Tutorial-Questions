@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: MeanMedian.java
+
+Java - Basic Console App - Week 08
 2. a. The mean of a list of numbers is its arithmetic average. The median of a list is its
 middle value when the values are placed in order. For example, if a list contains 1,
 4, 7, 8, and 10, then the mean is 6 and the median is 7. Write an application that

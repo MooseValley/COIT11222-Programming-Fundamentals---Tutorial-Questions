@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: Salesperson.java
+
+Java - Basic Console App - Week 08
 5. In Chapter 8, you created a Salesperson class with fields for an ID number and sales
 values. Now, create an application that allows you to store an array that acts as a
 database of any number of Salesperson objects up to 20. While the user decides to

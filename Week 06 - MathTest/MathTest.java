@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: MathTest.java
+
+Java - Basic Console App - Week 06
 7. Write a Java application that uses the Math class to determine the answers for each of
 the following:
 a. The square root of 37

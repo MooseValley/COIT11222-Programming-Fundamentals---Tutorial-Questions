@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: Bread.java
+
+Java - Basic Console App - Week 06
 5. a. Create a class for the Tip Top Bakery named Bread with data fields for bread type
 (such as “rye”) and calories per slice. Include a constructor that takes parameters
 for each field, and include get methods that return the values of the fields. Also

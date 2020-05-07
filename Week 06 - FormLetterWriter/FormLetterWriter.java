@@ -1,4 +1,8 @@
 /*
+Author: Mike OMalley
+Source: FormLetterWriter.java
+
+Java - Basic Console App - Week 06
 1. Create a class named FormLetterWriter that includes two overloaded methods
 named displaySalutation(). The first method takes one String parameter that
 represents a customer’s last name, and it displays the salutation “Dear Mr. or Ms.”
